@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+apscheduler
+sqlalchemy
+psycopg2-binary
+tzlocal
